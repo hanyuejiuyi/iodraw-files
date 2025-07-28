@@ -104,18 +104,18 @@
           <mxGeometry x="610" y="1060" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K4ZtyN2wUXt5EuNo-yon-38" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;用户管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="920" width="140" height="60" as="geometry" />
+          <mxGeometry x="610" y="920" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K4ZtyN2wUXt5EuNo-yon-39" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;用户管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1060" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K4ZtyN2wUXt5EuNo-yon-40" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;用户管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K4ZtyN2wUXt5EuNo-yon-40" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Spr&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="920" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K4ZtyN2wUXt5EuNo-yon-41" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;用户管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1060" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K4ZtyN2wUXt5EuNo-yon-42" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;用户管理&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K4ZtyN2wUXt5EuNo-yon-42" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Spring Boot&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="920" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
