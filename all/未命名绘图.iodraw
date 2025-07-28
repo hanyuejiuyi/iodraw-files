@@ -118,10 +118,10 @@
         <mxCell id="K4ZtyN2wUXt5EuNo-yon-42" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Spring Boot&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="920" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K4ZtyN2wUXt5EuNo-yon-44" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;MQTT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K4ZtyN2wUXt5EuNo-yon-44" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;WebSocket实时推送&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="1200" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K4ZtyN2wUXt5EuNo-yon-45" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;MQTT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="K4ZtyN2wUXt5EuNo-yon-45" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;REST API&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="1210" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K4ZtyN2wUXt5EuNo-yon-46" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;SpringBoot应用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
