@@ -34,7 +34,7 @@
         <mxCell id="ORlUd8cp8ZMg12jwgBco-5" value="报告管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ORlUd8cp8ZMg12jwgBco-6">
           <mxGeometry x="74" y="245" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ORlUd8cp8ZMg12jwgBco-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ORlUd8cp8ZMg12jwgBco-6" source="ORlUd8cp8ZMg12jwgBco-3">
+        <mxCell id="ORlUd8cp8ZMg12jwgBco-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="ORlUd8cp8ZMg12jwgBco-6" source="ORlUd8cp8ZMg12jwgBco-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="70" as="targetPoint" />
           </mxGeometry>
@@ -82,7 +82,7 @@
         <mxCell id="ORlUd8cp8ZMg12jwgBco-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ORlUd8cp8ZMg12jwgBco-5" target="ORlUd8cp8ZMg12jwgBco-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ORlUd8cp8ZMg12jwgBco-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ORlUd8cp8ZMg12jwgBco-4" target="ORlUd8cp8ZMg12jwgBco-10">
+        <mxCell id="ORlUd8cp8ZMg12jwgBco-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ORlUd8cp8ZMg12jwgBco-4" target="ORlUd8cp8ZMg12jwgBco-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
