@@ -28,6 +28,12 @@
         <mxCell id="ORlUd8cp8ZMg12jwgBco-9" value="预警配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ORlUd8cp8ZMg12jwgBco-6">
           <mxGeometry x="74" y="305" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ORlUd8cp8ZMg12jwgBco-10" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ORlUd8cp8ZMg12jwgBco-11" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
