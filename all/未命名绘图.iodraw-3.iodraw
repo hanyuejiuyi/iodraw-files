@@ -21,7 +21,7 @@
         <mxCell id="ORlUd8cp8ZMg12jwgBco-4" value="流水线管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ORlUd8cp8ZMg12jwgBco-6">
           <mxGeometry x="74" y="125" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ORlUd8cp8ZMg12jwgBco-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ORlUd8cp8ZMg12jwgBco-6" source="ORlUd8cp8ZMg12jwgBco-5">
+        <mxCell id="ORlUd8cp8ZMg12jwgBco-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="ORlUd8cp8ZMg12jwgBco-6" source="ORlUd8cp8ZMg12jwgBco-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-70" y="180" as="targetPoint" />
           </mxGeometry>
@@ -38,6 +38,11 @@
         <mxCell id="ORlUd8cp8ZMg12jwgBco-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="ORlUd8cp8ZMg12jwgBco-6" source="ORlUd8cp8ZMg12jwgBco-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORlUd8cp8ZMg12jwgBco-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="ORlUd8cp8ZMg12jwgBco-6" source="ORlUd8cp8ZMg12jwgBco-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-70" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ORlUd8cp8ZMg12jwgBco-9" value="预警配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ORlUd8cp8ZMg12jwgBco-6">
@@ -65,6 +70,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ORlUd8cp8ZMg12jwgBco-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ORlUd8cp8ZMg12jwgBco-5" target="ORlUd8cp8ZMg12jwgBco-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ORlUd8cp8ZMg12jwgBco-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ORlUd8cp8ZMg12jwgBco-4" target="ORlUd8cp8ZMg12jwgBco-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
