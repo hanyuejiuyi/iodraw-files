@@ -26,7 +26,7 @@
             <mxPoint x="-70" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORlUd8cp8ZMg12jwgBco-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ORlUd8cp8ZMg12jwgBco-6" source="ORlUd8cp8ZMg12jwgBco-5">
+        <mxCell id="ORlUd8cp8ZMg12jwgBco-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ORlUd8cp8ZMg12jwgBco-6" source="ORlUd8cp8ZMg12jwgBco-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="70" as="targetPoint" />
           </mxGeometry>
