@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ORlUd8cp8ZMg12jwgBco-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ORlUd8cp8ZMg12jwgBco-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="220" as="sourcePoint" />
+            <mxPoint x="210" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ORlUd8cp8ZMg12jwgBco-1" value="系统管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -47,7 +47,7 @@
         </mxCell>
         <mxCell id="ORlUd8cp8ZMg12jwgBco-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ORlUd8cp8ZMg12jwgBco-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="215" as="sourcePoint" />
+            <mxPoint x="210" y="220" as="sourcePoint" />
             <mxPoint x="364" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
