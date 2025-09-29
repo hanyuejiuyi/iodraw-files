@@ -34,6 +34,12 @@
         <mxCell id="ORlUd8cp8ZMg12jwgBco-11" value="一般用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="300" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ORlUd8cp8ZMg12jwgBco-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="280" as="sourcePoint" />
+            <mxPoint x="390" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
