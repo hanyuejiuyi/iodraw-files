@@ -13,7 +13,7 @@
           <mxGeometry x="170" y="195" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ORlUd8cp8ZMg12jwgBco-6" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="40" width="280" height="370" as="geometry" />
+          <mxGeometry x="280" y="40" width="280" height="430" as="geometry" />
         </mxCell>
         <mxCell id="ORlUd8cp8ZMg12jwgBco-7" value="生产数据管理系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ORlUd8cp8ZMg12jwgBco-6">
           <mxGeometry x="74" y="15" width="120" height="30" as="geometry" />
@@ -82,7 +82,7 @@
         <mxCell id="ORlUd8cp8ZMg12jwgBco-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ORlUd8cp8ZMg12jwgBco-5" target="ORlUd8cp8ZMg12jwgBco-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ORlUd8cp8ZMg12jwgBco-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ORlUd8cp8ZMg12jwgBco-4" target="ORlUd8cp8ZMg12jwgBco-10">
+        <mxCell id="ORlUd8cp8ZMg12jwgBco-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ORlUd8cp8ZMg12jwgBco-4" target="ORlUd8cp8ZMg12jwgBco-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
