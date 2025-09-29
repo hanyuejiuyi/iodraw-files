@@ -50,7 +50,7 @@
             <mxPoint x="360" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORlUd8cp8ZMg12jwgBco-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="ORlUd8cp8ZMg12jwgBco-6" source="ORlUd8cp8ZMg12jwgBco-9">
+        <mxCell id="ORlUd8cp8ZMg12jwgBco-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ORlUd8cp8ZMg12jwgBco-6" source="ORlUd8cp8ZMg12jwgBco-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-70" y="180" as="targetPoint" />
           </mxGeometry>
