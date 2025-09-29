@@ -57,7 +57,7 @@
         </mxCell>
         <mxCell id="ORlUd8cp8ZMg12jwgBco-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="ORlUd8cp8ZMg12jwgBco-6" source="ORlUd8cp8ZMg12jwgBco-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="80" as="targetPoint" />
+            <mxPoint x="360" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ORlUd8cp8ZMg12jwgBco-9" value="预警配置" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ORlUd8cp8ZMg12jwgBco-6">
@@ -103,7 +103,7 @@
         <mxCell id="ORlUd8cp8ZMg12jwgBco-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ORlUd8cp8ZMg12jwgBco-4" target="ORlUd8cp8ZMg12jwgBco-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ORlUd8cp8ZMg12jwgBco-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ORlUd8cp8ZMg12jwgBco-24" target="ORlUd8cp8ZMg12jwgBco-10">
+        <mxCell id="ORlUd8cp8ZMg12jwgBco-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ORlUd8cp8ZMg12jwgBco-24" target="ORlUd8cp8ZMg12jwgBco-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
